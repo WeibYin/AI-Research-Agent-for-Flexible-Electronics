@@ -21,3 +21,15 @@ The workflow first collects research papers, experimental notes, characterizatio
 ## Future Plan
 
 The next step is to integrate Xiaomi MiMo API with agent frameworks such as Cursor or OpenClaw to develop a reusable AI research assistant for materials science and flexible electronics.
+
+## Current Progress
+
+The current version has completed the initial project design, including research scenario definition, workflow planning, and task decomposition logic. The next stage will focus on API integration, long-context document processing, and testing with real research materials from flexible electronics and materials science projects.
+
+## Expected Outputs
+
+- A reusable AI research workflow for materials science
+- Structured literature summaries and experimental plans
+- AI-assisted interpretation of characterization results
+- Drafts for SCI manuscript sections, figure captions, and reviewer responses
+- A prototype agent connected with Xiaomi MiMo API
